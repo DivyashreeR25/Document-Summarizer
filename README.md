@@ -26,4 +26,21 @@ An AI-powered document summarizer web application that allows users to upload do
 ---
 
 ## 📂 Folder Structure
-
+document-summarizer/
+├── backend/
+│ ├── routes/
+│ ├── uploads/
+│ ├── utils/
+│ ├── init.py
+│ ├── app.py
+│ ├── gemini_summarizer.py
+│ ├── requirements.txt
+│ └── .env
+├── summarizer-frontend/
+│ ├── public/
+│ ├── src/
+│ ├── index.html
+│ ├── package.json
+│ ├── tailwind.config.ts
+│ └── ...
+├── README.md
