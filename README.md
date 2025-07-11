@@ -25,6 +25,3 @@ An AI-powered document summarizer web application that allows users to upload do
 
 ---
 
-
-│ └── ...
-├── README.md
