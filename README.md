@@ -2,7 +2,7 @@
 
 An AI-powered document summarizer web application that allows users to upload documents and receive concise summaries powered by Google's Gemini API.
 
-## 🚀 Features
+## Features
 
 - Upload PDFs or text documents
 - Get AI-generated summaries using Gemini API
@@ -13,7 +13,7 @@ An AI-powered document summarizer web application that allows users to upload do
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React.js
@@ -25,22 +25,6 @@ An AI-powered document summarizer web application that allows users to upload do
 
 ---
 
-## 📂 Folder Structure
-document-summarizer/
-├── backend/
-│ ├── routes/
-│ ├── uploads/
-│ ├── utils/
-│ ├── init.py
-│ ├── app.py
-│ ├── gemini_summarizer.py
-│ ├── requirements.txt
-│ └── .env
-├── summarizer-frontend/
-│ ├── public/
-│ ├── src/
-│ ├── index.html
-│ ├── package.json
-│ ├── tailwind.config.ts
+
 │ └── ...
 ├── README.md
